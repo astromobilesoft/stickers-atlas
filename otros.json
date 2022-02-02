@@ -1,0 +1,24 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.atlas",
+   "ios_app_store_link":"",
+   "sticker_packs":[     
+      {
+         "identifier":"apertura2022w1",
+         "name":"Campeón Clausura 2021",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diegococca",
+         "name":"Diego Cocca",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"gol1",
+         "name":"Pack Gol 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+   ]
+}
