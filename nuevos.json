@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2022s2",
+         "name":"vs Tigres (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"julianquinones1",
+         "name":"Julian Quinones",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
          "identifier":"clausura2022s1",
          "name":"vs Tigres (1)",
          "animated_sticker_pack":false,
