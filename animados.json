@@ -3,12 +3,6 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"animados3",
-         "name":"Animados 3",
-         "animated_sticker_pack":true,
-         "stickers":"8"
-      },
-      {
          "identifier":"animados1",
          "name":"Animados 1",
          "animated_sticker_pack":true,
