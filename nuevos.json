@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"previasupercopa2022",
+         "name":"Previa Supercopa 2022",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"camiseta2022",
+         "name":"Jerjey 2022",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
          "identifier":"clausura2022w2",
          "name":"Bicampeón",
          "animated_sticker_pack":false,
