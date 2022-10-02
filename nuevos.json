@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2022f17",
+         "name":"vs Necaxa",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"aniversario106",
          "name":"Aniversario 106",
          "animated_sticker_pack":false,
