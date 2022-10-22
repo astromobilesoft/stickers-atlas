@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"luisreyes1",
+         "name":"Luis Reyes (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"luisreyes2",
+         "name":"Luis Reyes (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"jeremymarquez1",
+         "name":"Jeremy Marquez (1)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"jeremymarquez2",
+         "name":"Jeremy Marquez (2)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
          "identifier":"apertura2022f17",
          "name":"vs Necaxa",
          "animated_sticker_pack":false,
