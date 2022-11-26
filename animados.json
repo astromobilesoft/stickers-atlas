@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022MEXgol",
+         "name":"México GOL",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"worldcup2022animados",
+         "name":"Gol Animados",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
          "identifier":"animados1",
          "name":"Animados 1",
          "animated_sticker_pack":true,
