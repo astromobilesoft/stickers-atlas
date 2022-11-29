@@ -3,6 +3,108 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022rogeliofunesmori",
+         "name":"Rogelio Funes Mori",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022rodolfocota",
+         "name":"Rodolfo Cota",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022orbelinpineda",
+         "name":"Orbelin Pineda",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2022luisromo",
+         "name":"Luis Romo",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"worldcup2022luischavez",
+         "name":"Luis Chavez",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022kevinalvarez",
+         "name":"Kevin Alvarez",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022jorgesanchez",
+         "name":"Jorge Sanchez",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022johanvazquez",
+         "name":"Johan Vazquez",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"worldcup2022jesusgallardo",
+         "name":"Jesus Gallardo",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"worldcup2022hirvinglozano2",
+         "name":"Hirving Lozano (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022hectormoreno",
+         "name":"Hector Moreno",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022hectorherrera",
+         "name":"Hector Herrera",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022gerardoarteaga",
+         "name":"Gerardo Arteaga",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022erickgutierrez",
+         "name":"Erick Gutierrez",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"worldcup2022edsonalvarez",
+         "name":"Edson Alvarez",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022cesarmontes",
+         "name":"Cesar Montes",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022alfredotalavera",
+         "name":"Alfredo Talavera",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
          "identifier":"worldcup2022mexico",
          "name":"México 2022 (1)",
          "animated_sticker_pack":false,
