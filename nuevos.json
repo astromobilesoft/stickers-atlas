@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copapormexico2223f3",
+         "name":"vs Mazatlan FC",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
          "identifier":"worldcup2022GCsaudiarabiavsmexico",
          "name":"México vs Arabia Saudita",
          "animated_sticker_pack":false,
