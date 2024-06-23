@@ -3,12 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaamerica2024fg1",
+         "name":"vs Jamaica",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"ccl2022o1",
          "name":"vs Olimpia",
          "animated_sticker_pack":false,
          "stickers":"21"
       },
-   {
+      {
          "identifier":"previasupercopa2022",
          "name":"Previa Supercopa 2022",
          "animated_sticker_pack":false,
