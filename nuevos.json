@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026kitmexico4",
+         "name":"Kit WC 2026 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },     
+      {
+         "identifier":"worldcup2026mexicovscorea",
+         "name":"vs Corea",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }, 
+      {
          "identifier":"worldcup2026kitmexico3",
          "name":"Kit WC 2026 (3)",
          "animated_sticker_pack":false,
