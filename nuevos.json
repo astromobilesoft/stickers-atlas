@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"memoochoa1",
+         "name":"Memo Ochoa",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },      
+      {
+         "identifier":"worldcup2026mexicof3",
+         "name":"vs Czech Republic",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },       
+      {
          "identifier":"worldcup2026kitmexico4",
          "name":"Kit WC 2026 (4)",
          "animated_sticker_pack":false,
